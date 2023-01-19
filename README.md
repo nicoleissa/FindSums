@@ -1,5 +1,5 @@
 # FindSums
-> This Java program takes user input and prints all the distinct subsets of the given multiset. The main class is the FindSums class; this class accepts user input.
+> This Java program takes user input and prints all the distinct subsets of the given multiset. The main class is the FindSums class; this class accepts user input. This class contains one method and utilizes arrays and the stack data structure. 
 
 ## Table of Contents
 * [General Info](#general-information)
